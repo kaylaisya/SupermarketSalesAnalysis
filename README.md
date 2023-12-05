@@ -1,6 +1,6 @@
 # Supermarket Sales Analysis
 ## About
-Our primary goal in this project is to gain a comprehensive understanding of the dynamics that drive Supermarket Sales. We're diving deep into product performances, sales trends, and customer behaviors. By understanding these dynamics, we aim to empower decision-makers with actionable intelligence. The dataset was obtained from the [Kaggle Supermarket Sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data)
+Our primary goal in this project is to gain a comprehensive understanding of the dynamics that drive Supermarket Sales. We're diving deep into product performances, sales trends, and customer behaviors by using MySQL Workbench. By understanding these dynamics, we aim to empower decision-makers with actionable intelligence. The dataset was obtained from the [Kaggle Supermarket Sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data)
 
 ## Purpose Of The Project
 By using Exploratory Data Analysis (EDA), the major goal of this project is to analyze the data through statistical measures and visualizations. This helps us turn raw data into practical knowledge.
