@@ -42,7 +42,7 @@ The data was obtained from the [Kaggle Supermarket Sales](https://www.kaggle.com
 7. In which city branch should expansion be considered, and which products should be emphasized?
 
 ## Code
-For the rest of the code check the
+For the rest of the code check the [Query_Sales](https://github.com/kaylaisya/SupermarketSalesAnalysis/blob/main/Query_Sales.sql)
 ```ruby
 -- Create table
 CREATE TABLE IF NOT EXISTS sales(
