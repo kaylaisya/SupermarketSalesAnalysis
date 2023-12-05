@@ -64,4 +64,8 @@ CREATE TABLE IF NOT EXISTS sales(
     gross_income DECIMAL(12, 4),
     Rating FLOAT(2, 1)
 );
+```
 
+## Conclusion
+The favored payment method is E-wallet, with a notable preference for cash transactions as well. The dataset consists of three cities/branches where Naypyidaw's Branch C emerges as the most financially rewarding. On average, 'Health and Beauty' generates the highest gross revenue. Women spend the most on 'Fashion Accessories,' while for men, it is 'Health and Beauty.' Women also spend more on 'Sports and Travel.' 
+Most customers purchase around 10 products. Despite the high ratings for 'Fashion Accessories' and 'Food and Beverages,' the quantity purchased is low. Therefore, the supply of these products needs to be increased. 'Fashion Accessories' and 'Food and Beverages' are the best-selling products in Naypyidaw, and these products should be focused on along with 'Electronic Accessories'.
