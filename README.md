@@ -32,7 +32,7 @@ The data was obtained from the [Kaggle Supermarket Sales](https://www.kaggle.com
 2. Exploratory Data Analysis (EDA): Exploratory data analysis is conducted to answer the listed questions and the goal of this project.
 3. Conclusion
 
-##Questions To Answer
+## Questions To Answer
 1. What is the most popular payment method used by customers?
 2. Which branch is the most profitable?
 3. Which product category generates the highest revenue?
@@ -41,7 +41,7 @@ The data was obtained from the [Kaggle Supermarket Sales](https://www.kaggle.com
 6. Which product category should be the focus of the supermarket?
 7. In which city branch should expansion be considered, and which products should be emphasized?
 
-##Code
+## Code
 For the rest of the code check the
 ```ruby
 -- Create table
